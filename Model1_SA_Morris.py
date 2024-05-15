@@ -3,7 +3,6 @@
 """
 Created on Mon Mar 18 02:41:20 2024
 
-@author: liujiacheng
 """
 
 from SALib.sample import morris
