@@ -3,7 +3,6 @@
 """
 Created on Tue Mar 19 03:23:03 2024
 
-@author: liujiacheng
 """
 
 from concurrent.futures import ThreadPoolExecutor, as_completed
